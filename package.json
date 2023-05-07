@@ -1,0 +1,9 @@
+{
+  "name": "r-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FlashHand/r-logger.git",
+  "author": "WangBo <ralwayne@163.com>",
+  "license": "MIT",
+  "private": false
+}
