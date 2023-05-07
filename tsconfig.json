@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "./dist",
+    "declarationMap": false,
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": false,
+    "baseUrl": ".",
+    "resolveJsonModule": true,
+    "emitDeclarationOnly": false,
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "es2020",
+      "dom"
+    ]
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+    "node_modules"
+  ]
+}
